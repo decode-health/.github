@@ -1,4 +1,4 @@
-# Hi there from decodehealthcare 👋
+# Hi there from decodehealth 👋
 
 ## Authors
 Sakin Kirti (CWRU 2023), Mohana Venkatapuram (CWRU 2023), Alena Tochilkina (CWRU 2024), Rajan Patel (CWRU 2024)
